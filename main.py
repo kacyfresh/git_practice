@@ -1,4 +1,4 @@
 print("my first git project")
-name = "learner"
+name = "kelechi"
 
 print(name)
